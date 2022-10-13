@@ -1,0 +1,57 @@
+
+body
+{
+ background-color:   #e0eefc; 
+ font-family: 'Libre Baskerville', serifa;  
+}
+
+input [type="button"]
+{
+ width: 200px;
+}
+
+input[type="text"]
+{
+ width: 250px;    
+}
+p
+{
+ font-size: 16px;
+}
+
+td #area_sobre
+{
+text-align: center;
+}
+
+#menu
+{
+font-family: 'Crimson Text', serif; 
+text-align: center;
+font-size: 20px;
+}
+
+td #servico 
+{
+text-align: center;    
+}
+
+table#servicos
+{
+    text-align: center;
+}
+
+#area_contato
+{
+    float: left;
+    width: 50%;
+    margin-left: 130px;
+}
+#fale
+{
+    margin-left: 850px ;
+}
+h2
+{
+    font-size: 28px;
+}

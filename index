@@ -1,0 +1,73 @@
+<!DOCTYPE >
+<html>
+<head>
+    <link rel="stylesheet" href="tabela.css">
+<title> SITE TABELA </title>
+</head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https: //fonts.googleapis.com/css2? family= Libre+Baskerville:wght@700 & display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@600&display=swap" rel="stylesheet">
+<body>
+<table border="1" width="100%">
+<tr><td colspan="4" > <img src="banner.jpg" alt="logotipo, com nome da construtoria Ottus." width="100%"> </td></tr>  
+	
+<tr id="menu"><td>Home</td><td>Serviços</td><td>Sobre</td><td>Fale Conosco</td></tr>
+<tr><td colspan="3" rowspan="3"> 
+<img align="left" src="img/obra3.png">
+<h1 id="area_sobre"> Sobre Nós</h1> 
+<p>A Ottus Construtora nasceu com o propósito de oferecer qualidade e preços justos no ramo da reforma e manutenção predial, consolidando-se em agosto de 2015 na Baixada Santista. <br>
+    Nosso compromisso é trazer aos nossos clientes soluções práticas com comprometimento e responsabilidade com o prazo de entrega em todos os serviços oferecidos. <br>
+    Tudo aliado a um ótimo custo-benefício.</p>
+     <p>MISSÃO: A nossa missão é proporcionar projetos e serviços com qualidade, rapidez, eficiência e transparência, para construir parcerias estratégicas e duradouras com nossos clientes, colaboradores, fornecedores e parceiros.<br>
+     VISÃO: Ser reconhecida nacionalmente como referência na área da construção civil em obras e serviços sob os aspectos econômicos, técnicos e éticos. Nos tornar referência no mercado, alcançando os melhores resultados com excelência e assim poder construir uma carreira brilhante e realizar sonhos.<br>
+    VALORES: Ética, Transparência, Qualidade, Compromisso, Reconhecimento profissional e Responsabilidade Socioambiental, sempre acreditando que o sucesso vem através dessas condutas.</p>    
+</td>
+<td><a href="https://www.carrefour.com.br/"><img src="img/carrefour.png " alt="logotipo do carrefour" width="100%"></a></td></tr>
+<tr><td><a href="https://www.americanas.com.br/"><img src="img/americanas.png" alt="logotipo da americas" width="100%"> </a></td></tr>
+<tr><td><a href="https://www.promotigre.com.br/"> <img src="img/tigre.png" alt="logotipo da tigre" width="100%"></a></td></tr>
+<tr> <td colspan="4"> <h2 id="servico">Serviços</h2>
+   
+
+<table id="servicos" width=100%>
+<tr>
+   <td><h3>Reforma Geral</h3><img src="img/geral.png"> <p>A Otttus Engenharia conta com uma equipe<br>
+     altamente treinada para reformar desde uma <br>
+    sala comercial à um novo visual de empreendimento.</p></td>
+   <td> <h3>Troca de revestimento</h3> <img src="img/22.jpg"> <p >Revitalizamos a fachada de prédios antigos, pela <br> 
+        alteração de pastilhas, pintura e outros. Entregamos <br>
+         modernidade e soluções em possíveis problemas estruturais.</p></td>
+    <td><h3>Construção Civil</h3> <img src="img/33.jpg"> <p>Com toda experiência adquira ao longo dos anos,<br> 
+        o grupo Ottus vem construindo história e realiza<br>
+         o sonho da casa própria de muitas famílias.</p></td> 
+</tr>            
+</table>
+</td></tr>
+<tr> <td colspan="4"> 
+    <div id="area_contato">
+        <h2>Fale conosco</h2>
+        <form>
+            <label for="nome">Nome:</label><br>
+            <input type="text" name="nome" placeholder="Nome:"><br>
+            <label for="whatsapp">WhatsApp:</label><br>
+            <input type="text" name="whatsapp" placeholder="WhatsApp:"><br>
+            <label for="email">E-mail:</label><br>
+            <input type="text" name="email" placeholder="E-mail:"><br>
+            <label for="mensagem"></label><br>
+            <textarea placeholder="Escreva sua mensagem aqui"></textarea><br>
+            <input type="button" name="enviar" value="Enviar">
+        </form>
+    </div>
+    <div>
+    <a href="https://www.google.com/maps/place/OTTUS+Construtora/@-23.6365935,-46.697515,15.5z/data=!4m5!3m4!1s0x0:0x7d7aed77d4224e8c!8m2!3d-23.6367425!4d-46.694604"><img src="img/maps.jpg"> <p id="fale">Av. Adolfo Pinheiro, 2054 - Chácara Santo Antônio, São Paulo - SP, 04734-003</p></a>
+</div>
+</td></tr>
+</table>    
+</body>
+</html>
+
+
+    
